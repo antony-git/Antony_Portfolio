@@ -8,7 +8,7 @@ The difference is actually indistinguishable for these polynomials of order N = 
 <img src="/antony-git/antony-git/blob/main/Engineering/Screen%20Shot%202022-02-07%20at%2010.44.24%20PM.png" width="500"/>
 
 ### [1st and 2nd Order Difference Approximations and their Errors](https://github.com/antony-git/antony-git/blob/main/Engineering/Computational_methods.py)
-<img src="https://github.com/antony-git/antony-git/blob/main/Engineering/Screen%20Shot%202022-02-07%20at%2010.48.02%20PM.png" width="500"/>
+<img src="/antony-git/antony-git/blob/main/Engineering/Screen%20Shot%202022-02-07%20at%2010.48.02%20PM.png" width="500"/>
 <img src="https://github.com/antony-git/antony-git/blob/main/Engineering/Screen%20Shot%202022-02-07%20at%2010.46.05%20PM.png" width="500"/>
 
 ### [Contour Plots of Electric Field and Free Charge Density](https://github.com/antony-git/antony-git/blob/main/Engineering/Computational_methods.py)
