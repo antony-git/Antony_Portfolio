@@ -10,7 +10,7 @@ The difference is actually indistinguishable for these polynomials of order N = 
 A quadratic spline interpolation (these spline functions are actually used to draw the curves on fonts like Times New Roman).
 
 ### [1st and 2nd Order Difference Approximations and their Errors](https://github.com/antony-git/antony-git/blob/main/Engineering/Computational_methods.py)
-<img src="/images/12orderDiff.png" width="500"/>
+<img src="images/12orderDiff.png" width="500"/>
 <img src="/images/DiffErrors.png" width="500"/>
 
 ### [Contour Plots of Electric Field and Free Charge Density](https://github.com/antony-git/antony-git/blob/main/Engineering/Computational_methods.py)
