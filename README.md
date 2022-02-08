@@ -16,8 +16,8 @@ A quadratic spline interpolation (these spline functions are actually used to dr
 <img src="images/DiffErrors.png" width="500"/>
 
 ### [Contour Plots of Electric Field and Free Charge Density](https://github.com/antony-git/antony-git/blob/main/Engineering/Computational_methods.py)
-<img src="images/Efield.png" width="500"/>
-<img src="images/freeCharge.png" width="500"/>
+<img src="images/Efield.png" width="550"/>
+<img src="images/freeCharge.png" width="450"/>
 
 
 ## Group Project: [Football Game Simulator and Web Scraper (ACJR-project)](https://github.com/antony-git/antony-git/tree/main/acjr-project-master-421b28c945b266cd97de1031bc8043d81ff8a86c)
