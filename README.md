@@ -3,7 +3,7 @@ A portfolio of some of my data visualizations and projects from computer science
 
 ## Visualizations from Computational Methods in Engineering
 ### [Various Interpolating Polynomial Methods](https://github.com/antony-git/antony-git/blob/main/Engineering/Computational_methods.py)
-<img src="/Engineering/Screen%20Shot%202022-02-07%20at%2010.43.32%20PM.png" width="500"/>
+<img src="/images/LagrangeAndNewton.png" width="500"/>
 The difference is actually indistinguishable for these polynomials of order N = 11.
 <img src="/Engineering/Screen%20Shot%202022-02-07%20at%2010.44.24%20PM.png" width="500"/>
 
