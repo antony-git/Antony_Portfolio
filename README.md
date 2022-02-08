@@ -4,9 +4,11 @@ A portfolio of some of my data visualizations and projects from computer science
 ## Visualizations from Computational Methods in Engineering
 ### [Various Interpolating Polynomial Methods](https://github.com/antony-git/antony-git/blob/main/Engineering/Computational_methods.py)
 <img src="images/LagrangeAndNewton.png" width="500"/>
+
 The difference is actually indistinguishable for these polynomials of order N = 11.
 
 <img src="images/Spline.png" width="500"/>
+
 A quadratic spline interpolation (these spline functions are actually used to draw the curves on fonts like Times New Roman).
 
 ### [1st and 2nd Order Difference Approximations and their Errors](https://github.com/antony-git/antony-git/blob/main/Engineering/Computational_methods.py)
