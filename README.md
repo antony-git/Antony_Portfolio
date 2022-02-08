@@ -3,7 +3,7 @@ A portfolio of some of my data visualizations and projects from computer science
 
 ## Visualizations from computational methods in engineering
 ### [Lagrange's vs. Newton's Interpolating Polynomials](https://github.com/antony-git/antony-git/blob/main/Engineering/Computational_methods.py)
-<img src="https://github.com/antony-git/antony-git/blob/main/Engineering/Screen%20Shot%202022-02-07%20at%2010.43.32%20PM.png" width="600"/>
+<img src="https://github.com/antony-git/antony-git/blob/main/Engineering/Screen%20Shot%202022-02-07%20at%2010.43.32%20PM.png" width="500"/>
 The difference is actually indistinguishable for these polynomials of order N = 11.
 
 ## Group Project: [Football Game Simulator and Web Scraper (ACJR-project)](https://github.com/antony-git/antony-git/tree/main/acjr-project-master-421b28c945b266cd97de1031bc8043d81ff8a86c)
