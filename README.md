@@ -1,5 +1,10 @@
 # Antony_Portfolio
-A portfolio of some of my data visualizations from computer science and engineering classes. 
+A portfolio of some of my data visualizations and projects from computer science and engineering classes. 
+
+## Visualizations from computational methods in engineering
+### [Lagrange's vs. Newton's Interpolating Polynomials](https://github.com/antony-git/antony-git/blob/main/Engineering/Computational_methods.py)
+![](https://github.com/antony-git/antony-git/blob/main/Engineering/Lagrange%26Newton.png.png)
+The difference is actually indistinguishable for these polynomials of order N = 11.
 
 ## Group Project: [Football Game Simulator and Web Scraper (ACJR-project)](https://github.com/antony-git/antony-git/tree/main/acjr-project-master-421b28c945b266cd97de1031bc8043d81ff8a86c)
 (Antony Awad, Cooper Powell, Johann Hatzius, Robert Gillespie): This project contains the files needed to crawl, scrape, and analyze data from pro-football-reference.com and profootballarchives.com. This data is used to help simulate a football game between any two NFL teams within the past 11 seasons (dating back to the 2010-2011 season). This data is presented in the format of a django website. 
