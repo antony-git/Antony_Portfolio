@@ -1,4 +1,4 @@
-# Antony_Portfolio
+# Antony Awad Portfolio
 A portfolio of some of my data visualizations and projects from computer science and engineering classes. 
 
 ## Visualizations from Computational Methods in Engineering
