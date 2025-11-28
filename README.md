@@ -1,5 +1,5 @@
 # Antony Awad - Some Visualizations from Coursework
-A portfolio of some of my data visualizations and projects from computer science and engineering classes. 
+A portfolio of some of my data visualizations and projects from computer science and engineering classes. Click on each project name to go see the underlying code.
 
 ## Visualizations from Computational Methods in Engineering
 ### [Various Interpolating Polynomial Methods](https://github.com/antony-git/antony-git/blob/main/Engineering/Computational_methods.py)
